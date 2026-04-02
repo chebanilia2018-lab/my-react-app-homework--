@@ -7,8 +7,8 @@ This is a simple React app built with Vite. It demonstrates how to use the `use(
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/async-message-app.git
-cd async-message-app
+git clone git@github.com:chebanilia2018-lab/my-react-app-homework--.git
+cd my-react-app-homework--
 npm install
 npm run dev
 ```
